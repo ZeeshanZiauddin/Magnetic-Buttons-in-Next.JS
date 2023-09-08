@@ -1,0 +1,29 @@
+{
+  "name": "magnetic-button",
+  "author": "Vincent Bianciotto <vincent@celavi.fr> (https://celavi.fr/)",
+  "version": "1.0.0",
+  "description": "A magnetic button animation with ReactJS & Styled-components",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "framer-motion": "3.9.0",
+    "gsap": "3.9.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.0.1",
+    "styled-components": "5.1.0",
+    "styled-normalize": "8.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
